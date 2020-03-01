@@ -21,9 +21,9 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/axios": "^5.9.5",
     "@nuxtjs/dotenv": "^1.4.0",
-    "@nuxtjs/pwa": "^3.0.0-0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
     "cross-env": "^5.2.0",
     "koa": "^2.6.2",
     "nuxt": "^2.0.0"
@@ -31,21 +31,21 @@
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
     "@nuxtjs/eslint-module": "^1.0.0",
-    "@nuxtjs/stylelint-module": "^3.1.0",
-    "@nuxtjs/vuetify": "^1.0.0",
+    "@nuxtjs/stylelint-module": "^3.2.2",
+    "@nuxtjs/vuetify": "^1.11.0",
     "@vue/test-utils": "^1.0.0-beta.27",
-    "babel-eslint": "^10.0.1np",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^24.1.0",
     "eslint": "^6.1.0",
     "eslint-config-prettier": "^4.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-plugin-nuxt": "^0.5.1",
     "eslint-plugin-prettier": "^3.0.1",
     "husky": "^2.6.0",
     "jest": "^24.1.0",
     "lint-staged": "^8.2.1",
     "nodemon": "^1.18.9",
     "prettier": "^1.16.4",
-    "stylelint": "^13.0.0",
+    "stylelint": "^13.2.0",
     "stylelint-config-prettier": "^8.0.1",
     "vue-jest": "^4.0.0-0"
   }
